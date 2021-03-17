@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeuNg-2015-Community", "BeuNg-2015-Community\BeuNg-2015-Community.csproj", "{9D952860-87F0-4341-A921-B86A448EAB54}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{84035160-1441-429D-87D7-AD9B5E6B8BD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D952860-87F0-4341-A921-B86A448EAB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D952860-87F0-4341-A921-B86A448EAB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D952860-87F0-4341-A921-B86A448EAB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D952860-87F0-4341-A921-B86A448EAB54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84035160-1441-429D-87D7-AD9B5E6B8BD6}.Debug|Any CPU.ActiveCfg = Debug
+		{84035160-1441-429D-87D7-AD9B5E6B8BD6}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

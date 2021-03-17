@@ -1,0 +1,17 @@
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\bin\Release\BeuNg-2015-Community.exe.config
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\bin\Release\BeuNg-2015-Community.exe
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\bin\Release\BeuNg-2015-Community.pdb
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\bin\Release\CircularProgressBar.dll
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\bin\Release\MetroFramework.Design.dll
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\bin\Release\MetroFramework.dll
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\bin\Release\MetroFramework.Fonts.dll
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\bin\Release\WinFormAnimation.dll
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\bin\Release\CircularProgressBar.xml
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\bin\Release\WinFormAnimation.xml
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\obj\Release\BeuNg-2015-Community.csproj.ResolveComReference.cache
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\obj\Release\BeuNg_2015_Community.Form1.resources
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\obj\Release\BeuNg_2015_Community.LogsWindow.resources
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\obj\Release\BeuNg_2015_Community.Properties.Resources.resources
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\obj\Release\BeuNg-2015-Community.csproj.GenerateResource.Cache
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\obj\Release\BeuNg-2015-Community.exe
+E:\docs\Cansat\YIS\BeuNg-2015-Community\BeuNg-2015-Community\obj\Release\BeuNg-2015-Community.pdb
